@@ -1,5 +1,4 @@
 # VDUI_Unit2_Deliverable
-# VDUI Unit 2 Activities
 
 This repository contains the completed activities for **PPT 1, PPT 4, PPT 5, and PPT 7** of the Data Visualization and User Interface (VDUI) course.
 
